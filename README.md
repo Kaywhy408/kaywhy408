@@ -2,7 +2,7 @@
 
 <!-- Animated Cyber Banner -->
 <p align="center">
-  <img src="![download](https://github.com/user-attachments/assets/0672f5cf-c429-4340-ab47-66fd8a3268ef)
+  <img src=""C:\Users\yungl\OneDrive\Pictures\Camera Roll\WIN_20250925_11_08_16_Pro.jpg"
 " alt="Nightmare Glitch Banner" width="800" />
 </p>
 
