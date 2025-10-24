@@ -1,10 +1,7 @@
 <!-- 💀 NIGHTMARE README PROFILE -->
 
 <!-- Animated Cyber Banner -->
-<p align="center">
-  <!-- <img src=""C:\Users\yungl\OneDrive\Pictures\Camera Roll\WIN_20250925_11_08_16_Pro.jpg"
-" alt="Nightmare Glitch Banner" width="800" /> -->
-</p>
+
 
 <h1 align="center">💀 N.I.G.H.T.M.A.R.E</h1>
 
