@@ -1,8 +1,8 @@
 <!-- 💀 NIGHTMARE README PROFILE -->
 
-<!-- Avatar -->
+<!-- Animated Cyber Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/ThpK4tF/nightmare-avatar.gif" alt="Nightmare Avatar" width="160" style="border-radius: 50%;" />
+  <img src="https://i.ibb.co/J7vydgW/nightmare-glitch-banner.gif" alt="Nightmare Glitch Banner" width="800" />
 </p>
 
 <h1 align="center">💀 N.I.G.H.T.M.A.R.E</h1>
