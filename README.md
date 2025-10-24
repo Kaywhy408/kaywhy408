@@ -2,7 +2,7 @@
 
 <!-- Animated Cyber Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/J7vydgW/nightmare-glitch-banner.gif" alt="Nightmare Glitch Banner" width="800" />
+  <img src="https://www.pinterest.com/pin/AU1qXczQ2ntMrjxHW1C8DCuAPGX0hMixXI4ip2zzfbWcTHTZD8vlyoY/" alt="Nightmare Glitch Banner" width="800" />
 </p>
 
 <h1 align="center">💀 N.I.G.H.T.M.A.R.E</h1>
