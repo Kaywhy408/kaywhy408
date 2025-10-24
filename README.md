@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- 💀 NIGHTMARE README PROFILE -->
 
-<!--
-**Kaywhy408/kaywhy408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">💀 N.I.G.H.T.M.A.R.E</h1>
+<p align="center">
+  <strong>Never Ignore Growth, Hustle Till Mastery, Achieve, Repeat, Evolve</strong><br>
+  <em>"Born in bugs, raised in breakthroughs."</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌑 Who I Am
+I am **Ajayi Oluwakanyinsola**, known in the digital realm as **NIGHTMARE** —  
+a **Full-Stack Developer** who sees code as art and creation as destiny.  
+I don’t just build websites — I create **realities** that breathe through **React**, **Node.js**, and **Tailwind CSS**.  
+I’m not afraid of the dark — I *code* in it.  
+
+```js
+const nightmare = {
+  alias: "Nightmare.exe",
+  role: "Full-Stack Developer",
+  stack: ["React ⚛️", "Node.js 🌐", "Tailwind 🎨"],
+  motto: "Never Ignore Growth, Hustle Till Mastery, Achieve, Repeat, Evolve.",
+  mindset: "Fear nothing. Build everything."
+};
