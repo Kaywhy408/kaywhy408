@@ -1,6 +1,12 @@
 <!-- 💀 NIGHTMARE README PROFILE -->
 
+<!-- Avatar -->
+<p align="center">
+  <img src="https://i.ibb.co/ThpK4tF/nightmare-avatar.gif" alt="Nightmare Avatar" width="160" style="border-radius: 50%;" />
+</p>
+
 <h1 align="center">💀 N.I.G.H.T.M.A.R.E</h1>
+
 <p align="center">
   <strong>Never Ignore Growth, Hustle Till Mastery, Achieve, Repeat, Evolve</strong><br>
   <em>"Born in bugs, raised in breakthroughs."</em>
