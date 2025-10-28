@@ -13,7 +13,7 @@
 ---
 
 ### 🌑 Who I Am
-I am **Ajayi Oluwakanyinsola**, known in the digital realm as **NIGHTMARE** —  
+I am **Ajayi Oluwakanyinsola**, known in the digital realm as **NIGHTMARE**  
 a **Full-Stack Developer** who sees code as art and creation as destiny.  
 I don’t just build websites — I create **realities** that breathe through **React**, **Node.js**, and **Tailwind CSS**.  
 I’m not afraid of the dark — I *code* in it.  
